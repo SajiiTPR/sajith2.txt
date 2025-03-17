@@ -1,6 +1,6 @@
 # sajith2.txt
 <html>
   <body>
-    <h2>wel come ATI</h2>
+    <h2>welcome to our ATI</h2>
   </body>
 </html>
